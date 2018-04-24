@@ -1,7 +1,7 @@
 <?php
 //array with names
 $a[] = "Arif Nurrahman";
-$a[] = "AS Daniel";
+$a[] = "Petrus Rynanson Sianipar";
 $a[] = "AMI";
 $a[] = "Hendra";
 $a[] = "Cristin";
